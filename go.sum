@@ -137,6 +137,10 @@ github.com/markbates/going v1.0.0 h1:DQw0ZP7NbNlFGcKbcE/IVSOAFzScxRtLpd0rLMzLhq0
 github.com/markbates/going v1.0.0/go.mod h1:I6mnB4BPnEeqo85ynXIx1ZFLLbtiLHNXVgWeFO9OGOA=
 github.com/markbates/goth v1.64.2 h1:HDFwyuB6/ATU1USTvd/Rb3C9XE0VAxeuciSz+aUZHHA=
 github.com/markbates/goth v1.64.2/go.mod h1:hSFJFfH56BfFCX4+hBIxyd3o5VzuH5rNwKVRsFr/JPk=
+github.com/mattn/go-sqlite3 v1.14.3 h1:j7a/xn1U6TKA/PHHxqZuzh64CdtRc7rU9M+AvkOl5bA=
+github.com/mattn/go-sqlite3 v1.14.3/go.mod h1:WVKg1VTActs4Qso6iwGbiFih2UIHo0ENGwNd0Lj+XmI=
+github.com/michaeljs1990/sqlitestore v0.0.0-20190919182151-25d6d7f2e768 h1:bhm7LvATJVIK6IjdJ60bM/eM1GxMSL9SOQPiFITDqZg=
+github.com/michaeljs1990/sqlitestore v0.0.0-20190919182151-25d6d7f2e768/go.mod h1:N6aiMetO+sSN0h4VC8RjkwiljKaZmgPsWzZG+mk6oec=
 github.com/mrjones/oauth v0.0.0-20180629183705-f4e24b6d100c h1:3wkDRdxK92dF+c1ke2dtj7ZzemFWBHB9plnJOtlwdFA=
 github.com/mrjones/oauth v0.0.0-20180629183705-f4e24b6d100c/go.mod h1:skjdDftzkFALcuGzYSklqYd8gvat6F1gZJ4YPVbkZpM=
 github.com/oklog/run v1.1.0 h1:GEenZ1cK0+q0+wsJew9qUg/DyD8k3JzYsZAi5gYi2mA=
