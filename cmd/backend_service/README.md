@@ -1,6 +1,6 @@
-# Pricing Daemon
+# Backend Service
 
-This component is a stub for pricing engine api. 
+This component is a stub for backend service. That is, any service accessible over TCP/HTTP(S).
 
 # OAuth2
 
