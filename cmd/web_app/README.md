@@ -1,6 +1,6 @@
 # Fee Manager WebApplication
 
-This is mimicing classic webapplication approach. This application exposes also several routes, but difference with pricing engine witch is "API" component, this one provides also user interface for it's users (sort of... mind my design skills).
+This is mimicing classic webapplication approach. This application exposes also several routes, but difference with backend_service engine witch is "API" component, this one provides also user interface for it's users (sort of... mind my design skills).
 
 Endpoints exposed by this application are:
 
